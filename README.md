@@ -5,7 +5,7 @@ I've finished 3 courses of 'Data Structures and Algorithms Specialization' offer
 2. Data Structures
 3. Algorithms on Graphs
 # ACPC participation
-**I participated at ACPC 2020 and my team got 9th place among Faculty of Engineering ASU participant teams**/
+**I participated at ACPC 2020 and my team got 9th place among Faculty of Engineering ASU participant teams**
 
 ![9th](https://user-images.githubusercontent.com/47945674/115971990-244c2680-a54c-11eb-8f08-452ae543ce61.png)
 
