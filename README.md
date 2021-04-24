@@ -5,4 +5,6 @@ I've finished 3 courses of 'Data Structures and Algorithms Specialization' offer
 2. Data Structures
 3. Algorithms on Graphs
 ## Algorithmic Toolbox
+![Certificate 0](https://user-images.githubusercontent.com/47945674/115971879-5f9a2580-a54b-11eb-9b8c-5b09c4f7d03d.png)
+
 
